@@ -3,7 +3,7 @@
 
 /**
  * free_dog - Frees memory allocated for a struct dog
- * @d: Pointer to struct dog to free
+ * @d: struct dog to free
  *
  * Description: Frees memory allocated for a struct dog, including name and owner.
  */
