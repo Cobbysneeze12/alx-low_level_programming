@@ -1,0 +1,100 @@
+/lib64/ld-linux-x86-64.so.2
+BmNA
+libc.so.6
+dprintf
+srand
+puts
+time
+__stack_chk_fail
+atoi
+__libc_start_main
+__gmon_start__
+GLIBC_2.4
+GLIBC_2.2.5
+UH-p `
+AWAVA
+AUATL
+[]A\A]A^A_
+- %d
+Congratulations, you win 1 point
+Congratulations, you win 2 points
+Congratulations, you win 5 points
+Congratulations, you win 50 points
+Congratulations, you win 500 points
+Congratulations, you win 5,000 points
+Congratulations, you win 1,000,000 points
+Congratulations, you win the Jackpot!
+Sorry, try again!
+Usage: gm n1 n2 n3 n4 n5 bonus
+ - (first pool) five different numbers from 1 to 75, followed by 
+ - (second pool) one number from 1 to 15
+;*3$"
+GCC: (Ubuntu 5.4.0-6ubuntu1~16.04.4) 5.4.0 20160609
+crtstuff.c
+__JCR_LIST__
+deregister_tm_clones
+__do_global_dtors_aux
+completed.7585
+__do_global_dtors_aux_fini_array_entry
+frame_dummy
+__frame_dummy_init_array_entry
+101-main.c
+__FRAME_END__
+__JCR_END__
+__init_array_end
+_DYNAMIC
+__init_array_start
+__GNU_EH_FRAME_HDR
+_GLOBAL_OFFSET_TABLE_
+__libc_csu_fini
+_ITM_deregisterTMCloneTable
+puts@@GLIBC_2.2.5
+_edata
+check_input
+__stack_chk_fail@@GLIBC_2.4
+dprintf@@GLIBC_2.2.5
+__libc_start_main@@GLIBC_2.2.5
+srand@@GLIBC_2.2.5
+__data_start
+pick_numbers
+__gmon_start__
+__dso_handle
+_IO_stdin_used
+time@@GLIBC_2.2.5
+__libc_csu_init
+print_numbers
+check_result
+__bss_start
+main
+_Jv_RegisterClasses
+atoi@@GLIBC_2.2.5
+__TMC_END__
+_ITM_registerTMCloneTable
+.symtab
+.strtab
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.comment
